@@ -1,0 +1,7 @@
+@import url("../pico-main/pico-main/css/pico.min.css");
+
+/* Selects the root element of the document:
+   <html> in the case of HTML */
+:root {
+  background: yellow;
+}
